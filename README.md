@@ -6,4 +6,6 @@ Professor: Milton Ramirez
 
 Aluno: Luis Miguel Carmona
 
+Detalhes de cada lista em sua respectiva pasta
+
 Passei todos os arquivos para esse repositorio eventualmente vou deletar os outros
