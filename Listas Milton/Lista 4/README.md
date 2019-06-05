@@ -4,4 +4,4 @@ Exercício 1 - Tratamento de erros ao ler um arquivo
 
 Exercício 2 - Torre de Hanoi com desenho e passos
 
-Exercício 3 - Ler uma matriz 
+Exercício 3 - Ler uma matriz e preencher o interior
