@@ -1,0 +1,5 @@
+Luis,123124,Matematica,2,95,7,8,None,None
+Joao,324232,Artes,5,98,4,10,None,None
+Carlos,963433,Teatro,9,92,10,10,None,None
+Maria,2932342,Engenharia,3,88,8,6,None,None
+Tiago,8958662,Atuaria,9,89,3,5,8,None
